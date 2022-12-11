@@ -1,2 +1,3 @@
 # SoftUni-education-
-This repository contains all materails and submited solutions during my programming education 
+
+This repository contains all lectures, problems descriptions and submited solutions during my programming education 
