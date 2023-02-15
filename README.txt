@@ -1,6 +1,6 @@
 #SoftUni-education
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4F3GnktIMGkwg3PzDBcdLdICJdzZyiCcq7673IRR9GyAdFMVR5LWIN--Y6CjmROHKlY&usqp=CAU)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/76/20171030100647%21Logo_Software_University_%28SoftUni%29_-_blue.png/120px-Logo_Software_University_%28SoftUni%29_-_blue.png)
 
 This repository contains all materials and code during my programming education 
 
